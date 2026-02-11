@@ -1,0 +1,221 @@
+\contentsline {chapter}{\numberline {1}Introduction to Information Systems}{13}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Overview}{13}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Definition of an Information System}{13}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Evolution of Information Systems}{13}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Data vs. Information}{14}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Types of Information Systems}{14}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Transaction Processing Systems (TPS)}{14}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Enterprise Resource Planning (ERP)}{14}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Management Information Systems (MIS)}{14}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Decision Support Systems (DSS)}{14}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.5.5}Artificial Intelligence in Information Systems}{14}{subsection.1.5.5}%
+\contentsline {section}{\numberline {1.6}Case Study: AI-Driven Decision Support Systems}{14}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Multiple Choice Questions (MCQs)}{15}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Information Systems in Organizations}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{17}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Understanding Organizations}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.3}The Value Chain Model}{17}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Organizational Structures}{18}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Empowerment in Organizations}{18}{section.2.5}%
+\contentsline {section}{\numberline {2.6}IS Department Functions}{18}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Business Process Reengineering (BPR)}{18}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Total Quality Management (TQM)}{18}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Porter’s Five Forces Model and Competitive Advantage}{19}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Strategic Planning for Competitive Advantage}{19}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Case Study: AI in Business Decision-Making}{19}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Multiple Choice Questions (MCQs)}{19}{section.2.12}%
+\contentsline {chapter}{\numberline {3}Data in Information Systems}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Valuing Organizational Information}{23}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}The Value of Timely Information}{23}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Characteristics of High-Quality Information}{23}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Database Structures}{24}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Entity-Relationship Diagrams (ERD)}{24}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Rules of Thumb in ER Modeling}{24}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}Normalization}{24}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Data Management and Storage}{25}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Business Intelligence and Data Mining}{25}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Case Study: AI in Data Analytics}{25}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Multiple Choice Questions (MCQs)}{25}{section.3.10}%
+\contentsline {chapter}{\numberline {4}Hardware in Information Systems}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Hardware Components}{29}{section.4.2}%
+\contentsline {section}{\numberline {4.3}The Central Processing Unit (CPU)}{29}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Processing Characteristics and Performance}{30}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Moore's Law}{30}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.5}Types of Computer Architectures}{30}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Complex Instruction Set Computing (CISC)}{30}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Reduced Instruction Set Computing (RISC)}{30}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}Memory and Storage}{30}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Primary Memory}{31}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Secondary Storage}{31}{subsection.4.6.2}%
+\contentsline {section}{\numberline {4.7}Input and Output Devices}{31}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Input Devices}{31}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Output Devices}{31}{subsection.4.7.2}%
+\contentsline {section}{\numberline {4.8}Emerging Trends in Hardware}{31}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Case Study: AI-Optimized Hardware}{32}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Multiple Choice Questions (MCQs)}{32}{section.4.10}%
+\contentsline {chapter}{\numberline {5}Software in Information Systems}{35}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{35}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Types of Software}{35}{section.5.2}%
+\contentsline {section}{\numberline {5.3}System Software}{35}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Operating Systems (OS)}{35}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Memory Management}{36}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Capabilities of an OS}{36}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Additional System Software Features}{36}{subsection.5.3.4}%
+\contentsline {section}{\numberline {5.4}Application Software}{36}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Types of Application Software}{36}{subsection.5.4.1}%
+\contentsline {section}{\numberline {5.5}Programming Languages}{36}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Evolution of Programming Languages}{37}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Language Translation}{37}{subsection.5.5.2}%
+\contentsline {section}{\numberline {5.6}Case Study: AI in Software Development}{37}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Multiple Choice Questions (MCQs)}{37}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Networks in Information Systems}{41}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduction}{41}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Telecommunications and Networking}{41}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Network Protocols}{41}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Types of Signals}{41}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Modems}{42}{subsection.6.4.1}%
+\contentsline {section}{\numberline {6.5}Communication Channels}{42}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Transmission Speed}{42}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Network Topologies}{42}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Types of Networks}{42}{section.6.8}%
+\contentsline {section}{\numberline {6.9}The Internet and Its Business Applications}{43}{section.6.9}%
+\contentsline {section}{\numberline {6.10}Case Study: AI in Network Security}{43}{section.6.10}%
+\contentsline {section}{\numberline {6.11}Multiple Choice Questions (MCQs)}{43}{section.6.11}%
+\contentsline {chapter}{\numberline {7}Transaction Processing Systems (TPS) and Enterprise Resource Planning (ERP)}{47}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Introduction}{47}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Transaction Processing Systems (TPS)}{47}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Types of TPS}{47}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Comparison: Batch Processing vs. OLTP}{47}{subsection.7.2.2}%
+\contentsline {section}{\numberline {7.3}Enterprise Resource Planning (ERP)}{48}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Key Features of ERP Systems}{48}{subsection.7.3.1}%
+\contentsline {section}{\numberline {7.4}Control and Management Issues in TPS and ERP}{48}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Business Continuity Planning (BCP)}{48}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Transaction Processing System Audits}{48}{subsection.7.4.2}%
+\contentsline {section}{\numberline {7.5}International Issues in TPS and ERP}{48}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Case Study: AI-Driven ERP Systems}{49}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Multiple Choice Questions (MCQs)}{49}{section.7.7}%
+\contentsline {chapter}{\numberline {8}Project Management in Information Systems}{51}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Introduction}{51}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Why Projects are Undertaken}{51}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Phases of Project Management}{51}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Project Initiation}{51}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Project Planning}{51}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}Project Execution}{52}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}Project Closure}{52}{subsection.8.3.4}%
+\contentsline {section}{\numberline {8.4}Project Control and Monitoring}{52}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Brooks’ Law}{52}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}Parkinson’s Law}{52}{subsection.8.4.2}%
+\contentsline {section}{\numberline {8.5}Project Scheduling Techniques}{52}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Gantt Charts}{52}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Network Techniques: PERT and CPM}{53}{subsection.8.5.2}%
+\contentsline {subsection}{\numberline {8.5.3}Critical Path Analysis}{53}{subsection.8.5.3}%
+\contentsline {section}{\numberline {8.6}AI in Project Management}{53}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Case Study: AI-Powered Project Scheduling}{53}{section.8.7}%
+\contentsline {section}{\numberline {8.8}Multiple Choice Questions (MCQs)}{53}{section.8.8}%
+\contentsline {chapter}{\numberline {9}Systems Development Life Cycle (SDLC)}{57}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Introduction}{57}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Phases of the SDLC}{57}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}1. Initial Strategy}{57}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}2. Feasibility Study}{57}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}3. Requirements Analysis}{58}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}4. Systems Analysis}{58}{subsection.9.2.4}%
+\contentsline {subsection}{\numberline {9.2.5}5. Systems Specification}{58}{subsection.9.2.5}%
+\contentsline {subsection}{\numberline {9.2.6}6. System Design}{58}{subsection.9.2.6}%
+\contentsline {subsection}{\numberline {9.2.7}7. System Development}{58}{subsection.9.2.7}%
+\contentsline {subsection}{\numberline {9.2.8}8. Testing}{59}{subsection.9.2.8}%
+\contentsline {subsection}{\numberline {9.2.9}9. Implementation}{59}{subsection.9.2.9}%
+\contentsline {subsection}{\numberline {9.2.10}10. Production and Maintenance}{59}{subsection.9.2.10}%
+\contentsline {subsection}{\numberline {9.2.11}11. System Review}{59}{subsection.9.2.11}%
+\contentsline {section}{\numberline {9.3}Software Development Methodologies}{59}{section.9.3}%
+\contentsline {section}{\numberline {9.4}AI in SDLC}{60}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Case Study: AI-Assisted Software Development}{60}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Multiple Choice Questions (MCQs)}{60}{section.9.6}%
+\contentsline {chapter}{\numberline {10}Specialized Information Systems}{63}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Introduction}{63}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Measuring the Success of Strategic Initiatives}{63}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Efficiency IT Metrics}{63}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}Effectiveness IT Metrics}{63}{subsection.10.2.2}%
+\contentsline {section}{\numberline {10.3}Customer Relationship Management (CRM)}{64}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}Key CRM Features}{64}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.3.2}Emerging CRM Trends}{64}{subsection.10.3.2}%
+\contentsline {section}{\numberline {10.4}Supply Chain Management (SCM)}{64}{section.10.4}%
+\contentsline {subsection}{\numberline {10.4.1}Future SCM Trends}{64}{subsection.10.4.1}%
+\contentsline {section}{\numberline {10.5}Enterprise Resource Planning (ERP)}{64}{section.10.5}%
+\contentsline {subsection}{\numberline {10.5.1}Core and Extended ERP Components}{65}{subsection.10.5.1}%
+\contentsline {subsection}{\numberline {10.5.2}Future ERP Trends}{65}{subsection.10.5.2}%
+\contentsline {section}{\numberline {10.6}Artificial Intelligence (AI) in Information Systems}{65}{section.10.6}%
+\contentsline {subsection}{\numberline {10.6.1}Branches of AI}{65}{subsection.10.6.1}%
+\contentsline {section}{\numberline {10.7}Virtual Reality (VR)}{65}{section.10.7}%
+\contentsline {section}{\numberline {10.8}Case Study: AI in CRM}{65}{section.10.8}%
+\contentsline {section}{\numberline {10.9}Multiple Choice Questions (MCQs)}{66}{section.10.9}%
+\contentsline {chapter}{\numberline {11}E-Commerce and Electronic Business}{69}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Introduction}{69}{section.11.1}%
+\contentsline {section}{\numberline {11.2}The Properties of the Internet}{69}{section.11.2}%
+\contentsline {section}{\numberline {11.3}The Business Value of the Internet}{69}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Types of E-Commerce Models}{70}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Business-to-Business (B2B)}{70}{subsection.11.4.1}%
+\contentsline {subsubsection}{B2B Models}{70}{section*.10}%
+\contentsline {subsection}{\numberline {11.4.2}Business-to-Consumer (B2C)}{70}{subsection.11.4.2}%
+\contentsline {subsubsection}{B2C Models}{70}{section*.11}%
+\contentsline {subsection}{\numberline {11.4.3}Consumer-to-Consumer (C2C)}{70}{subsection.11.4.3}%
+\contentsline {subsection}{\numberline {11.4.4}Government-to-Constituent (G2C)}{70}{subsection.11.4.4}%
+\contentsline {section}{\numberline {11.5}E-Commerce Business Models}{70}{section.11.5}%
+\contentsline {section}{\numberline {11.6}Pricing Strategies in E-Commerce}{71}{section.11.6}%
+\contentsline {section}{\numberline {11.7}Success Factors for E-Commerce}{71}{section.11.7}%
+\contentsline {section}{\numberline {11.8}Future of E-Commerce}{71}{section.11.8}%
+\contentsline {subsection}{\numberline {11.8.1}Mobile Commerce (M-Commerce)}{71}{subsection.11.8.1}%
+\contentsline {subsection}{\numberline {11.8.2}Challenges in E-Commerce}{71}{subsection.11.8.2}%
+\contentsline {section}{\numberline {11.9}Case Study: AI-Driven Personalization in E-Commerce}{71}{section.11.9}%
+\contentsline {section}{\numberline {11.10}Multiple Choice Questions (MCQs)}{72}{section.11.10}%
+\contentsline {chapter}{\numberline {12}Decision Support Systems (DSS)}{75}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Introduction}{75}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Decision Making and Problem Solving}{75}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}Decision-Making Approaches}{75}{subsection.12.2.1}%
+\contentsline {section}{\numberline {12.3}Types of Decisions}{75}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Decision Support System Components}{76}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Outputs of Management Information Systems (MIS)}{76}{section.12.5}%
+\contentsline {section}{\numberline {12.6}Online Analytical Processing (OLAP)}{76}{section.12.6}%
+\contentsline {section}{\numberline {12.7}Group Support Systems (GSS)}{76}{section.12.7}%
+\contentsline {subsection}{\numberline {12.7.1}GSS Alternatives}{77}{subsection.12.7.1}%
+\contentsline {section}{\numberline {12.8}Expert Systems}{77}{section.12.8}%
+\contentsline {subsection}{\numberline {12.8.1}Components of Expert Systems}{77}{subsection.12.8.1}%
+\contentsline {section}{\numberline {12.9}Executive Support Systems (ESS)}{77}{section.12.9}%
+\contentsline {section}{\numberline {12.10}Case Study: AI in Decision Support Systems}{77}{section.12.10}%
+\contentsline {section}{\numberline {12.11}Multiple Choice Questions (MCQs)}{78}{section.12.11}%
+\contentsline {chapter}{\numberline {13}Trends in Information Systems}{81}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Introduction}{81}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Disruptive vs. Sustaining Technologies}{81}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Wireless Technologies and Mobility}{81}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Strategic vs. Operational IT Management}{82}{section.13.4}%
+\contentsline {subsection}{\numberline {13.4.1}Strategic IT Management}{82}{subsection.13.4.1}%
+\contentsline {subsection}{\numberline {13.4.2}Operational IT Management}{82}{subsection.13.4.2}%
+\contentsline {section}{\numberline {13.5}Information Resource Management (IRM)}{82}{section.13.5}%
+\contentsline {section}{\numberline {13.6}Global IT Management}{82}{section.13.6}%
+\contentsline {section}{\numberline {13.7}Outsourcing and Multi-Sourcing Trends}{82}{section.13.7}%
+\contentsline {subsection}{\numberline {13.7.1}Types of Outsourcing}{82}{subsection.13.7.1}%
+\contentsline {subsection}{\numberline {13.7.2}Challenges of Outsourcing}{83}{subsection.13.7.2}%
+\contentsline {section}{\numberline {13.8}Future Trends in Information Systems}{83}{section.13.8}%
+\contentsline {section}{\numberline {13.9}Case Study: AI in IT Resource Management}{83}{section.13.9}%
+\contentsline {section}{\numberline {13.10}Multiple Choice Questions (MCQs)}{83}{section.13.10}%
+\contentsline {chapter}{\numberline {14}Ethical, Legal, and Security Issues in Information Systems}{87}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Introduction}{87}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Privacy Issues in Information Systems}{87}{section.14.2}%
+\contentsline {subsection}{\numberline {14.2.1}Privacy and the Internet}{87}{subsection.14.2.1}%
+\contentsline {subsection}{\numberline {14.2.2}Privacy and Employees}{87}{subsection.14.2.2}%
+\contentsline {subsection}{\numberline {14.2.3}Privacy and Consumers}{87}{subsection.14.2.3}%
+\contentsline {subsection}{\numberline {14.2.4}Privacy and Government}{88}{subsection.14.2.4}%
+\contentsline {section}{\numberline {14.3}Ethical Issues in Information Systems}{88}{section.14.3}%
+\contentsline {subsection}{\numberline {14.3.1}Developing Information Management Policies}{88}{subsection.14.3.1}%
+\contentsline {section}{\numberline {14.4}Health Issues in Information Systems}{88}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Computer Crime}{89}{section.14.5}%
+\contentsline {subsection}{\numberline {14.5.1}Types of Computer Crime}{89}{subsection.14.5.1}%
+\contentsline {subsection}{\numberline {14.5.2}Cyber Threats from Outside the Organization}{89}{subsection.14.5.2}%
+\contentsline {subsection}{\numberline {14.5.3}Types of Hackers}{89}{subsection.14.5.3}%
+\contentsline {section}{\numberline {14.6}Information Security}{89}{section.14.6}%
+\contentsline {subsection}{\numberline {14.6.1}First Line of Defense: People}{89}{subsection.14.6.1}%
+\contentsline {subsection}{\numberline {14.6.2}Second Line of Defense: Technology}{90}{subsection.14.6.2}%
+\contentsline {section}{\numberline {14.7}Risk Management}{90}{section.14.7}%
+\contentsline {section}{\numberline {14.8}Case Study: AI in Cybersecurity}{90}{section.14.8}%
+\contentsline {section}{\numberline {14.9}Multiple Choice Questions (MCQs)}{90}{section.14.9}%
